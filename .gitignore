@@ -151,4 +151,4 @@ docs/pages/versions/*/react-native/*.diff
 # Pods
 /ios/Pods
 
-.expo-shared/
+.expo-shared
