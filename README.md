@@ -40,6 +40,9 @@ Simply connect using one of the three emails above.
 #### startup screen
 ![](https://lh3.googleusercontent.com/pw/AM-JKLUDtUYt47i9RpyayFpb6np-mnwnbd3CWiDr4lyr5K8pnBqL4s9yiZ3JsFMxpiLU5kI_jqKqHQbyj64lowh95EKjp3gpcz7I-9ZfSfJS-CV6ZTV6itME-XlkebQ89RnmYxGnZVjxiUaUnZis3uXUbj4p=w830-h888-no?authuser=0)
 
+#### startup screen - interactive name field
+![](https://lh3.googleusercontent.com/pw/AM-JKLXv4uUVgyC1DLDG7RFZInyIPm7eFsFxQ9y-FyCwY0kdIGDHNN5AwYXsjyvA18EfZsJRdA8AYwyQEjPz6QWTHxBubqB49RiwZznbgwDB5XkYYljOrab2MFJdE1w0IssEDUlOxhOPsu6owQturovmSpej=w831-h876-no?authuser=0)
+
 #### unauthorized (email verification)
 ![](https://lh3.googleusercontent.com/pw/AM-JKLW2IexacNSQFUj-cxYfsWzbnI54nRpYS25jXSXaw06GkoZVPmN08xTWdLiENYnzo7xOGMkkRc6sxNBc0N_1CMg7VvESro-OAngtPVpwjvqt_MVCBa7-M1aiYzfwJ4bcSHzywySp37tjRwJvD-6yk0dJ=w835-h890-no?authuser=0)
 
