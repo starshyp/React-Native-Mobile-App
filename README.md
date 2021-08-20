@@ -28,7 +28,7 @@ Simply connect using one of the three emails above.
 - https://rocketapis.azurewebsites.net/api/elevators
 - https://rocketapis.azurewebsites.net/api/elevators/notactive
 - https://rocketapis.azurewebsites.net/api/elevators/{id}
-- (PUT) https://rocketapis.azurewebsites.net/api/elevators/${id}/active
+- (PUT) https://rocketapis.azurewebsites.net/api/elevators/{id}/active
 
 ### Notes
 - Additional API endpoints were setup
