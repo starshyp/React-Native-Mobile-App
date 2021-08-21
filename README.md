@@ -22,6 +22,7 @@ Simply connect using one of the three emails above.
 - Notifications (popups) confirming desired actions
 - Design elements that feature the Rocket Elevators brand identity
 - Simple navigation options - home, go back, connect, and logout
+- BONUS: Interactive textinput component that changes upon entering a name
 
 ### API Info
 - https://rocketapis.azurewebsites.net/api/employee/{email} (one of the three above)
